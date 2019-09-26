@@ -12,3 +12,4 @@
   - git checkout -b reb
 
 - release commit 23
+- hotfix commit 24
